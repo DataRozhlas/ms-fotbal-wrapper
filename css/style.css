@@ -1,0 +1,15 @@
+/* branding */
+@media (min-width: 1360px) {
+  main {
+    width: 1200px;
+    margin: 0 auto;
+  }
+  .branding__holder {
+    background-color: #df2b0e;
+    background: url("https://www.irozhlas.cz/sites/default/files/uploader_unmanaged/tipovacka-1a_221109-151228_ace.png")
+      50% 0 no-repeat fixed;
+  }
+  .page-header-branding .header .header__top {
+    padding-top: 7px;
+  }
+}
